@@ -7,3 +7,12 @@ c:\users\morphy\documents\visual studio 2015\Projects\WindowsFormsApplication1\W
 c:\users\morphy\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 c:\users\morphy\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\morphy\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\PROJECT\C#\GRS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
