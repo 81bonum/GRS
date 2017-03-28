@@ -621,140 +621,140 @@ namespace WindowsFormsApplication1
         private void button73_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x00;
-            toSend[3] = 0x00;
+            toSend[2] = 0x09;
+            toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button74_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x00;
-            toSend[3] = 0x01;
+            toSend[2] = 0x09;
+            toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button75_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x01;
+            toSend[2] = 0x08;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button76_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x01;
+            toSend[2] = 0x08;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button77_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x02;
+            toSend[2] = 0x07;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button78_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x02;
+            toSend[2] = 0x07;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button79_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x03;
+            toSend[2] = 0x06;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button80_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x03;
+            toSend[2] = 0x06;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button81_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x04;
+            toSend[2] = 0x05;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button82_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x04;
+            toSend[2] = 0x05;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button83_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x05;
+            toSend[2] = 0x04;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button84_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x05;
+            toSend[2] = 0x04;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button85_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x06;
+            toSend[2] = 0x03;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button86_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x06;
+            toSend[2] = 0x03;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button87_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x07;
+            toSend[2] = 0x02;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button88_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x07;
+            toSend[2] = 0x02;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button89_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x08;
+            toSend[2] = 0x01;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button90_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x08;
+            toSend[2] = 0x01;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button91_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x09;
+            toSend[2] = 0x00;
             toSend[3] = 0x00;
             serialPort1.Write(toSend, 0, 4);
         }
         private void button92_Click(object sender, EventArgs e)
         {
             toSend[1] = 0x03;
-            toSend[2] = 0x09;
+            toSend[2] = 0x00;
             toSend[3] = 0x01;
             serialPort1.Write(toSend, 0, 4);
         }
